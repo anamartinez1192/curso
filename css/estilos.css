@@ -1,6 +1,8 @@
 body 
 {
+	background: grey;
 	border: 1px solid black;
 	border-radius: 5px;
+	color: cyan;
 	max-width: 1024px;
 }
